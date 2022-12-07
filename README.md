@@ -6,4 +6,5 @@
 - HTML : Langage de description utilisé pour concevoir les pages web
 - CSS : Lnagage de style utilisé pour mettre en forme les pages web
 - Bootsrap : Framework graphique utilisé pour faciliter la création de pages web (utlisation d'une base de règles CSS existantes)
-- Git : 
+- Git : Logiciel de gestion de version
+- GitHub : Forge logicielle en ligne utilisant Git
