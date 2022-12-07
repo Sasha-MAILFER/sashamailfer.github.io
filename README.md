@@ -8,3 +8,8 @@
 - Bootsrap : Framework graphique utilisé pour faciliter la création de pages web (utlisation d'une base de règles CSS existantes)
 - Git : Logiciel de gestion de version
 - GitHub : Forge logicielle en ligne utilisant Git
+##### 2. Pour l'épreuve E4
+- Je me présente et présente mon parcours, j'affiche mon cv
+- Je parle des projets que j'ai réalisé, je bascule sur les pages correspondantes
+- Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
+- Je présente mes bonnes pratiques :
